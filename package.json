@@ -1,0 +1,24 @@
+{
+  "name": "aplicacaonode",
+  "version": "1.0.0",
+  "description": "\"Aplicativo da aula\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorvfr/AplicacaoNodeCI.git"
+  },
+  "keywords": [
+    "\"Aplicação",
+    "aula",
+    "teste\""
+  ],
+  "author": "Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorvfr/AplicacaoNodeCI/issues"
+  },
+  "homepage": "https://github.com/victorvfr/AplicacaoNodeCI#readme"
+}
